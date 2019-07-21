@@ -3,5 +3,5 @@ class ClassroomsController < ApplicationController
    @classroom = Classroom.find(params[:id])
  end
 
- 
+
 end
